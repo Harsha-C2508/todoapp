@@ -1,0 +1,16 @@
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+  color: #06f1f6;
+  border-radius: 5px;
+  border: 2px solid silver;
+  box-shadow: 0 0 5px 5px;
+  margin-left: 30px;
+  margin-top: 50px;
+  font-size: 20px;
+  width: 150px;
+  height: 50px;
+  background: linear-gradient(270deg,#051817, #0e3839);;
+}
